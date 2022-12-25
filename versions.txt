@@ -1,0 +1,23 @@
+v 0.0.1 - FullSized Window
+v 0.0.2 - Hint for TB developing
+v 0.0.3 - Log in withou DB, transitions to undone reg page and main menu
+v 0.0.4 - Registration with password debug
+v 0.0.5 - login with DB, login exception debug
+v 0.0.6 - Registration with DB, registration exceptions 
+v 0.0.7 - MainMenu Prototype
+v 0.0.8 - Game Prototype
+v 0.0.9 - Main Menu video
+v 0.1.0 - Add question with DB (only 1 debug)
+v 0.1.1 - Game Design
+v 0.1.2 - Add custom question Page
+v 0.12.1 - Hot fix emelina bug
+v 0.1.3 - Progress Bar within 60 seconds
+v 0.1.4 - Exit button fix
+v 0.1.5 - Settings (set ur own time for PB)
+v 0.1.6 - Settings fix with personal class settings
+v 0.1.7 - Debug empty questions
+v 0.1.8 - debug correct answers method
+v 0.1.9 - Final game design 
+v 0.2 - Cross close
+v 0.2.1 - 
+v 0.2.2
