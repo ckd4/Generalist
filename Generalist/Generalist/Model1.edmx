@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище GeneralistModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="category_id" />
+          </Key>
+          <Property Name="category_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="description" Type="nvarchar" MaxLength="100" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Difficulty">
+          <Key>
+            <PropertyRef Name="difficulty_id" />
+          </Key>
+          <Property Name="difficulty_id" Type="int" Nullable="false" />
+          <Property Name="description" Type="nvarchar" MaxLength="15" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Questions">
+          <Key>
+            <PropertyRef Name="question_id" />
+          </Key>
+          <Property Name="question_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="difficulty_id" Type="int" Nullable="false" />
+          <Property Name="category_id" Type="int" Nullable="false" />
+          <Property Name="question" Type="nvarchar" MaxLength="250" Nullable="false" />
+          <Property Name="correct_answer" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="answer_1" Type="nvarchar" MaxLength="100" />
+          <Property Name="answer_2" Type="nvarchar" MaxLength="100" />
+          <Property Name="answer_3" Type="nvarchar" MaxLength="100" />
+          <Property Name="question_type" Type="int" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nickname" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="password" Type="nvarchar" MaxLength="40" Nullable="false" />
+          <Property Name="avatar" Type="varbinary(max)" />
+          <Property Name="experience" Type="int" />
+          <Property Name="rating" Type="int" />
+          <Property Name="rating2vs2" Type="int" />
+          <Property Name="NumberOfAnswers" Type="int" />
+          <Property Name="NumberOfCorrectAnswers" Type="int" />
+          <Property Name="NumberOfGames" Type="int" />
+          <Property Name="NumberOfGamesWon" Type="int" />
+          <Property Name="BestCategory" Type="nvarchar" MaxLength="25" />
+        </EntityType>
+        <Association Name="FK__Questions__categ__72C60C4A">
+          <End Role="Category" Type="Self.Category" Multiplicity="1" />
+          <End Role="Questions" Type="Self.Questions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="category_id" />
+            </Principal>
+            <Dependent Role="Questions">
+              <PropertyRef Name="category_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Questions__quest__71D1E811">
+          <End Role="Difficulty" Type="Self.Difficulty" Multiplicity="1" />
+          <End Role="Questions" Type="Self.Questions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Difficulty">
+              <PropertyRef Name="difficulty_id" />
+            </Principal>
+            <Dependent Role="Questions">
+              <PropertyRef Name="difficulty_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище GeneralistModelContainer">
+          <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Difficulty" EntityType="Self.Difficulty" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Questions" EntityType="Self.Questions" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Questions__categ__72C60C4A" Association="Self.FK__Questions__categ__72C60C4A">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Questions" EntitySet="Questions" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Questions__quest__71D1E811" Association="Self.FK__Questions__quest__71D1E811">
+            <End Role="Difficulty" EntitySet="Difficulty" />
+            <End Role="Questions" EntitySet="Questions" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GeneralistModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="category_id" />
+          </Key>
+          <Property Name="category_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="description" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Questions" Relationship="Self.FK__Questions__categ__72C60C4A" FromRole="Category" ToRole="Questions" />
+        </EntityType>
+        <EntityType Name="Difficulty">
+          <Key>
+            <PropertyRef Name="difficulty_id" />
+          </Key>
+          <Property Name="difficulty_id" Type="Int32" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Questions" Relationship="Self.FK__Questions__quest__71D1E811" FromRole="Difficulty" ToRole="Questions" />
+        </EntityType>
+        <EntityType Name="Questions">
+          <Key>
+            <PropertyRef Name="question_id" />
+          </Key>
+          <Property Name="question_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="difficulty_id" Type="Int32" Nullable="false" />
+          <Property Name="category_id" Type="Int32" Nullable="false" />
+          <Property Name="question" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="correct_answer" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="answer_1" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="answer_2" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="answer_3" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="question_type" Type="Int32" />
+          <NavigationProperty Name="Category" Relationship="Self.FK__Questions__categ__72C60C4A" FromRole="Questions" ToRole="Category" />
+          <NavigationProperty Name="Difficulty" Relationship="Self.FK__Questions__quest__71D1E811" FromRole="Questions" ToRole="Difficulty" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nickname" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="40" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="avatar" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="experience" Type="Int32" />
+          <Property Name="rating" Type="Int32" />
+          <Property Name="rating2vs2" Type="Int32" />
+          <Property Name="NumberOfAnswers" Type="Int32" />
+          <Property Name="NumberOfCorrectAnswers" Type="Int32" />
+          <Property Name="NumberOfGames" Type="Int32" />
+          <Property Name="NumberOfGamesWon" Type="Int32" />
+          <Property Name="BestCategory" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK__Questions__categ__72C60C4A">
+          <End Role="Category" Type="Self.Category" Multiplicity="1" />
+          <End Role="Questions" Type="Self.Questions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="category_id" />
+            </Principal>
+            <Dependent Role="Questions">
+              <PropertyRef Name="category_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Questions__quest__71D1E811">
+          <End Role="Difficulty" Type="Self.Difficulty" Multiplicity="1" />
+          <End Role="Questions" Type="Self.Questions" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Difficulty">
+              <PropertyRef Name="difficulty_id" />
+            </Principal>
+            <Dependent Role="Questions">
+              <PropertyRef Name="difficulty_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GeneralistEntities3" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Category" EntityType="Self.Category" />
+          <EntitySet Name="Difficulty" EntityType="Self.Difficulty" />
+          <EntitySet Name="Questions" EntityType="Self.Questions" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+          <EntitySet Name="Users" EntityType="Self.Users" />
+          <AssociationSet Name="FK__Questions__categ__72C60C4A" Association="Self.FK__Questions__categ__72C60C4A">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Questions" EntitySet="Questions" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Questions__quest__71D1E811" Association="Self.FK__Questions__quest__71D1E811">
+            <End Role="Difficulty" EntitySet="Difficulty" />
+            <End Role="Questions" EntitySet="Questions" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище GeneralistModelContainer" CdmEntityContainer="GeneralistEntities3">
+          <EntitySetMapping Name="Category">
+            <EntityTypeMapping TypeName="GeneralistModel.Category">
+              <MappingFragment StoreEntitySet="Category">
+                <ScalarProperty Name="category_id" ColumnName="category_id" />
+                <ScalarProperty Name="description" ColumnName="description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Difficulty">
+            <EntityTypeMapping TypeName="GeneralistModel.Difficulty">
+              <MappingFragment StoreEntitySet="Difficulty">
+                <ScalarProperty Name="difficulty_id" ColumnName="difficulty_id" />
+                <ScalarProperty Name="description" ColumnName="description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Questions">
+            <EntityTypeMapping TypeName="GeneralistModel.Questions">
+              <MappingFragment StoreEntitySet="Questions">
+                <ScalarProperty Name="question_id" ColumnName="question_id" />
+                <ScalarProperty Name="difficulty_id" ColumnName="difficulty_id" />
+                <ScalarProperty Name="category_id" ColumnName="category_id" />
+                <ScalarProperty Name="question" ColumnName="question" />
+                <ScalarProperty Name="correct_answer" ColumnName="correct_answer" />
+                <ScalarProperty Name="answer_1" ColumnName="answer_1" />
+                <ScalarProperty Name="answer_2" ColumnName="answer_2" />
+                <ScalarProperty Name="answer_3" ColumnName="answer_3" />
+                <ScalarProperty Name="question_type" ColumnName="question_type" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="GeneralistModel.sysdiagrams">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="GeneralistModel.Users">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="nickname" ColumnName="nickname" />
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="avatar" ColumnName="avatar" />
+                <ScalarProperty Name="experience" ColumnName="experience" />
+                <ScalarProperty Name="rating" ColumnName="rating" />
+                <ScalarProperty Name="rating2vs2" ColumnName="rating2vs2" />
+                <ScalarProperty Name="NumberOfAnswers" ColumnName="NumberOfAnswers" />
+                <ScalarProperty Name="NumberOfCorrectAnswers" ColumnName="NumberOfCorrectAnswers" />
+                <ScalarProperty Name="NumberOfGames" ColumnName="NumberOfGames" />
+                <ScalarProperty Name="NumberOfGamesWon" ColumnName="NumberOfGamesWon" />
+                <ScalarProperty Name="BestCategory" ColumnName="BestCategory" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
