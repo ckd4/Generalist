@@ -1,0 +1,209 @@
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\Generalist.exe.config
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\MainWindow.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\App.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.lref
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\MainWindow.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.g.resources
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.Properties.Resources.resources
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.csproj.GenerateResource.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\Authorization.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\App.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\Authorization.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\Registration.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\Registration.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\MainMenu.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\MainMenu.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.csproj.AssemblyReference.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\EntityFramework.dll
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\EntityFramework.xml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist_Content.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.csproj.CopyComplete
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Generalist.csproj.SuggestedBindingRedirects.cache
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\Generalist.exe.config
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\Generalist.exe
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\Generalist.pdb
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.dll
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.dll
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.xml
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.xml
+D:\Бургер Кинг\Generalist\Generalist\bin\Debug\ru\EntityFramework.resources.dll
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.AssemblyReference.cache
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.SuggestedBindingRedirects.cache
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\MainWindow.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Authorization.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\MainMenu.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Registration.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\App.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist_Content.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.cache
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.lref
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\App.baml
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\MainWindow.baml
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Authorization.baml
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\MainMenu.baml
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Registration.baml
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.g.resources
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.Properties.Resources.resources
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.GenerateResource.cache
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.CoreCompileInputs.cache
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.CopyComplete
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.exe
+D:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.pdb
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.AssemblyReference.cache
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.SuggestedBindingRedirects.cache
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\MainWindow.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Authorization.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Registration.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\App.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist_Content.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.cache
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.lref
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\Generalist.exe.config
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\Generalist.exe
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\Generalist.pdb
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.dll
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.dll
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.xml
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.xml
+E:\Бургер Кинг\Generalist\Generalist\bin\Debug\ru\EntityFramework.resources.dll
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\MainMenu.g.cs
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\App.baml
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\MainWindow.baml
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Authorization.baml
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\MainMenu.baml
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Pages\Registration.baml
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.g.resources
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.Properties.Resources.resources
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.GenerateResource.cache
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.CoreCompileInputs.cache
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.csproj.CopyComplete
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.exe
+E:\Бургер Кинг\Generalist\Generalist\obj\Debug\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\Game.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\Game.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\AddQuestion.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Debug\Pages\AddQuestion.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Debug\Resources\space.mp4
+D:\Generalist\Generalist\bin\Debug\Resources\space.mp4
+D:\Generalist\Generalist\bin\Debug\Generalist.exe.config
+D:\Generalist\Generalist\bin\Debug\Generalist.exe
+D:\Generalist\Generalist\bin\Debug\Generalist.pdb
+D:\Generalist\Generalist\bin\Debug\EntityFramework.dll
+D:\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.dll
+D:\Generalist\Generalist\bin\Debug\EntityFramework.xml
+D:\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.xml
+D:\Generalist\Generalist\bin\Debug\ru\EntityFramework.resources.dll
+D:\Generalist\Generalist\obj\Debug\Generalist.csproj.AssemblyReference.cache
+D:\Generalist\Generalist\obj\Debug\MainWindow.g.cs
+D:\Generalist\Generalist\obj\Debug\Pages\AddQuestion.g.cs
+D:\Generalist\Generalist\obj\Debug\Pages\Authorization.g.cs
+D:\Generalist\Generalist\obj\Debug\Pages\Game.g.cs
+D:\Generalist\Generalist\obj\Debug\Pages\MainMenu.g.cs
+D:\Generalist\Generalist\obj\Debug\Pages\Registration.g.cs
+D:\Generalist\Generalist\obj\Debug\Pages\Settings.g.cs
+D:\Generalist\Generalist\obj\Debug\App.g.cs
+D:\Generalist\Generalist\obj\Debug\Generalist_Content.g.cs
+D:\Generalist\Generalist\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.cache
+D:\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.lref
+D:\Generalist\Generalist\obj\Debug\App.baml
+D:\Generalist\Generalist\obj\Debug\MainWindow.baml
+D:\Generalist\Generalist\obj\Debug\Pages\AddQuestion.baml
+D:\Generalist\Generalist\obj\Debug\Pages\Authorization.baml
+D:\Generalist\Generalist\obj\Debug\Pages\Game.baml
+D:\Generalist\Generalist\obj\Debug\Pages\MainMenu.baml
+D:\Generalist\Generalist\obj\Debug\Pages\Registration.baml
+D:\Generalist\Generalist\obj\Debug\Pages\Settings.baml
+D:\Generalist\Generalist\obj\Debug\Generalist.g.resources
+D:\Generalist\Generalist\obj\Debug\Generalist.Properties.Resources.resources
+D:\Generalist\Generalist\obj\Debug\Generalist.csproj.GenerateResource.cache
+D:\Generalist\Generalist\obj\Debug\Generalist.csproj.CoreCompileInputs.cache
+D:\Generalist\Generalist\obj\Debug\Generalist.csproj.CopyComplete
+D:\Generalist\Generalist\obj\Debug\Generalist.exe
+D:\Generalist\Generalist\obj\Debug\Generalist.pdb
+D:\Generalist Project\Generalist\Generalist\bin\Debug\Resources\space.mp4
+D:\Generalist Project\Generalist\Generalist\bin\Debug\Generalist.exe.config
+D:\Generalist Project\Generalist\Generalist\bin\Debug\Generalist.exe
+D:\Generalist Project\Generalist\Generalist\bin\Debug\Generalist.pdb
+D:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.dll
+D:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.dll
+D:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.xml
+D:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.xml
+D:\Generalist Project\Generalist\Generalist\bin\Debug\ru\EntityFramework.resources.dll
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.AssemblyReference.cache
+D:\Generalist Project\Generalist\Generalist\obj\Debug\MainWindow.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\AddQuestion.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Authorization.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Game.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\MainMenu.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Registration.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Settings.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\App.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist_Content.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.cache
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.lref
+D:\Generalist Project\Generalist\Generalist\obj\Debug\App.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\MainWindow.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\AddQuestion.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Authorization.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Game.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\MainMenu.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Registration.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Settings.baml
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.g.resources
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.Properties.Resources.resources
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.GenerateResource.cache
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.CoreCompileInputs.cache
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.CopyComplete
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.exe
+D:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.pdb
+F:\Generalist Project\Generalist\Generalist\bin\Debug\Resources\space.mp4
+F:\Generalist Project\Generalist\Generalist\bin\Debug\Generalist.exe.config
+F:\Generalist Project\Generalist\Generalist\bin\Debug\Generalist.exe
+F:\Generalist Project\Generalist\Generalist\bin\Debug\Generalist.pdb
+F:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.dll
+F:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.dll
+F:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.xml
+F:\Generalist Project\Generalist\Generalist\bin\Debug\EntityFramework.SqlServer.xml
+F:\Generalist Project\Generalist\Generalist\bin\Debug\ru\EntityFramework.resources.dll
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.AssemblyReference.cache
+F:\Generalist Project\Generalist\Generalist\obj\Debug\MainWindow.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\AddQuestion.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Authorization.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Game.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\MainMenu.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Registration.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Settings.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\App.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist_Content.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.cache
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist_MarkupCompile.lref
+F:\Generalist Project\Generalist\Generalist\obj\Debug\App.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\MainWindow.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\AddQuestion.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Authorization.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Game.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\MainMenu.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Registration.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Pages\Settings.baml
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.g.resources
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.Properties.Resources.resources
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.GenerateResource.cache
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.CoreCompileInputs.cache
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.csproj.CopyComplete
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.exe
+F:\Generalist Project\Generalist\Generalist\obj\Debug\Generalist.pdb
