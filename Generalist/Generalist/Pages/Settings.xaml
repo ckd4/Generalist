@@ -1,0 +1,36 @@
+﻿<Page x:Class="Generalist.Pages.Settings"
+      xmlns:controls="clr-namespace:Generalist"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Generalist.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="Settings">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="GameClose" Content="×" VerticalAlignment="Top" Height="150" HorizontalAlignment="Left" Width="150" Margin="10,10,0,0" FontSize="150" FontFamily="Bahnschrift" Click="GameClose_Click" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}"/>
+
+
+        <AdornerDecorator Grid.Column="1" Grid.Row="1" VerticalAlignment="Top">
+            <TextBox x:Name="TBTime" Style="{DynamicResource AuthStyle}">
+                <controls:WatermarkService.Watermark>
+                    <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" FontSize="20" FontFamily="Bahnschrift" Text="Количество секунд для игры"/>
+                </controls:WatermarkService.Watermark>
+            </TextBox>
+        </AdornerDecorator>
+        <Button Grid.Column="1" Grid.Row="1" VerticalAlignment="Bottom" Height="40" x:Name="Savee" Style="{DynamicResource RoundedButton}" Content="Сохранить" Click="Savee_Click"/>
+
+    </Grid>
+</Page>

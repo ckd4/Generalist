@@ -1,0 +1,38 @@
+﻿<Page x:Class="Generalist.Pages.MainMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Generalist.Pages"
+      mc:Ignorable="d"
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="MainMenu">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="10*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.ColumnSpan="3" Margin="180,-150,180,0" Grid.RowSpan="2" Source="/Gen.png" Stretch="Fill" Height="424" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <Button x:Name="Play" Content="Играть" FontSize="70" Style="{DynamicResource MMbtn}" HorizontalAlignment="Center" Margin="0,10,0,290" Width="600" Grid.Column="1" Grid.Row="1" Height="120" VerticalAlignment="Top" Click="Play_Click"/>
+
+        <Button x:Name="Exit" Style="{DynamicResource MMbtn}" FontSize="70" Margin="329,140,24,0" VerticalAlignment="Top" Height="135" Width="295" Grid.Column="1" Grid.Row="1" Click="Exit_Click">
+            <Image Source="/Pages/exit.PNG"/>
+        </Button>
+
+        <Button x:Name="btnAddQuestion" Content="Добавить вопрос" Style="{DynamicResource MMbtn}" FontSize="60" HorizontalAlignment="Center" Margin="0 290 0 10" VerticalAlignment="Top" Height="120" Width="600" Grid.Column="1" Grid.Row="1" Click="btnAddQuestion_Click"/>
+
+        <Button x:Name="Settings" Style="{DynamicResource MMbtn}" FontSize="70" Height="135" Grid.Column="1" Grid.Row="1" Click="Button_Click" Margin="24,140,329,0" VerticalAlignment="Top" Width="295">
+            <Image Source="/Pages/set.png"/>
+        </Button>
+        <!--<Image x:Name="General" Grid.Column="1" Height="100" Grid.RowSpan="2" Width="600" VerticalAlignment="Top" Margin="0,30,0,0" Source="/Pages/Gen.png"/>-->
+    </Grid>
+</Page>
