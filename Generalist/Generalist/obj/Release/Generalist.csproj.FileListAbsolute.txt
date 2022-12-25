@@ -1,0 +1,384 @@
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\Generalist.exe.config
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\EntityFramework.dll
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\EntityFramework.xml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\MainWindow.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\App.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\App.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\MainWindow.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Game.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Registration.baml
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.g.resources
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist\Generalist\bin\Release\Resources\space.mp4
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+C:\Users\Ckd4\Desktop\Generalist\Generalist\obj\Release\Pages\Settings.baml
+D:\Generalist\Generalist\bin\Release\Resources\space.mp4
+D:\Generalist\Generalist\bin\Release\Generalist.exe.config
+D:\Generalist\Generalist\bin\Release\Generalist.exe
+D:\Generalist\Generalist\bin\Release\Generalist.pdb
+D:\Generalist\Generalist\bin\Release\EntityFramework.dll
+D:\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+D:\Generalist\Generalist\bin\Release\EntityFramework.xml
+D:\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+D:\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+D:\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+D:\Generalist\Generalist\obj\Release\MainWindow.g.cs
+D:\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+D:\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+D:\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+D:\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+D:\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+D:\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+D:\Generalist\Generalist\obj\Release\App.g.cs
+D:\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+D:\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+D:\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+D:\Generalist\Generalist\obj\Release\App.baml
+D:\Generalist\Generalist\obj\Release\MainWindow.baml
+D:\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+D:\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+D:\Generalist\Generalist\obj\Release\Pages\Game.baml
+D:\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+D:\Generalist\Generalist\obj\Release\Pages\Registration.baml
+D:\Generalist\Generalist\obj\Release\Pages\Settings.baml
+D:\Generalist\Generalist\obj\Release\Generalist.g.resources
+D:\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+D:\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+D:\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+D:\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+D:\Generalist\Generalist\obj\Release\Generalist.exe
+D:\Generalist\Generalist\obj\Release\Generalist.pdb
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\App.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.exe
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.pdb
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\Resources\space.mp4
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\Generalist.exe.config
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\Generalist.exe
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\Generalist.pdb
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\EntityFramework.dll
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\EntityFramework.xml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\App.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\MainWindow.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Game.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Registration.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Pages\Settings.baml
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.g.resources
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\Resources\space.mp4
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\Generalist.exe.config
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.dll
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.xml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\MainWindow.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\App.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\App.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\MainWindow.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Game.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Registration.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Pages\Settings.baml
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.g.resources
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist Project\Generalist\Generalist\obj\Release\Generalist.pdb
+E:\Generalist Project\Generalist\Generalist\bin\Release\Resources\space.mp4
+E:\Generalist Project\Generalist\Generalist\bin\Release\Generalist.exe.config
+E:\Generalist Project\Generalist\Generalist\bin\Release\Generalist.exe
+E:\Generalist Project\Generalist\Generalist\bin\Release\Generalist.pdb
+E:\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.dll
+E:\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+E:\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.xml
+E:\Generalist Project\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+E:\Generalist Project\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+E:\Generalist Project\Generalist\Generalist\obj\Release\MainWindow.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\App.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+E:\Generalist Project\Generalist\Generalist\obj\Release\App.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\MainWindow.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Game.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Registration.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Pages\Settings.baml
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.g.resources
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.exe
+E:\Generalist Project\Generalist\Generalist\obj\Release\Generalist.pdb
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Resources\space.mp4
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.exe.config
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.exe
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.pdb
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.dll
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.xml
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+E:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\MainWindow.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\App.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\App.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\MainWindow.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Game.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Registration.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Settings.baml
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.g.resources
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.exe
+E:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.pdb
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Resources\space.mp4
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.exe.config
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.exe
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.pdb
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.dll
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.xml
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+D:\Generalist Project v.0.2\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\MainWindow.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\App.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\App.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\MainWindow.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Game.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Registration.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Settings.baml
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.g.resources
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.exe
+D:\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Resources\space.mp4
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.exe.config
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.dll
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.xml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\MainWindow.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\App.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\App.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\MainWindow.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Game.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Registration.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\Settings.baml
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.g.resources
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.exe
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Generalist.pdb
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AdminPage.g.cs
+C:\Users\Ckd4\Desktop\Generalist Project v.0.2\Generalist\Generalist\obj\Release\Pages\AdminPage.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Resources\space.mp4
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Generalist.exe.config
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Generalist.exe
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Generalist.pdb
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.dll
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.xml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\MainWindow.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AdminPage.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\App.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\App.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\MainWindow.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AdminPage.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Game.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Registration.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Settings.baml
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.g.resources
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.exe
+I:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.pdb
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.AssemblyReference.cache
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.SuggestedBindingRedirects.cache
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\MainWindow.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AddQuestion.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AdminPage.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Authorization.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Game.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\MainMenu.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Registration.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Settings.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\App.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist_Content.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.cache
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist_MarkupCompile.lref
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Resources\space.mp4
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Generalist.exe.config
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Generalist.exe
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\Generalist.pdb
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.dll
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.dll
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.xml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\EntityFramework.SqlServer.xml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\bin\Release\ru\EntityFramework.resources.dll
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\App.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\MainWindow.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AddQuestion.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\AdminPage.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Authorization.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Game.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\MainMenu.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Registration.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Pages\Settings.baml
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.g.resources
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.Properties.Resources.resources
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.GenerateResource.cache
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.CoreCompileInputs.cache
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.csproj.CopyComplete
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.exe
+D:\Generalist Project v.0.2.5\Generalist\Generalist\obj\Release\Generalist.pdb

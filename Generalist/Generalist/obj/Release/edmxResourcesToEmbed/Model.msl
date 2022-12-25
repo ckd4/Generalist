@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище GeneralistModelContainer" CdmEntityContainer="GeneralistEntities">
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="GeneralistModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="category_id" ColumnName="category_id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Difficulty">
+      <EntityTypeMapping TypeName="GeneralistModel.Difficulty">
+        <MappingFragment StoreEntitySet="Difficulty">
+          <ScalarProperty Name="difficulty_id" ColumnName="difficulty_id" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Questions">
+      <EntityTypeMapping TypeName="GeneralistModel.Questions">
+        <MappingFragment StoreEntitySet="Questions">
+          <ScalarProperty Name="question_id" ColumnName="question_id" />
+          <ScalarProperty Name="difficulty_id" ColumnName="difficulty_id" />
+          <ScalarProperty Name="category_id" ColumnName="category_id" />
+          <ScalarProperty Name="question" ColumnName="question" />
+          <ScalarProperty Name="correct_answer" ColumnName="correct_answer" />
+          <ScalarProperty Name="answer_1" ColumnName="answer_1" />
+          <ScalarProperty Name="answer_2" ColumnName="answer_2" />
+          <ScalarProperty Name="answer_3" ColumnName="answer_3" />
+          <ScalarProperty Name="question_type" ColumnName="question_type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="GeneralistModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nickname" ColumnName="nickname" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="avatar" ColumnName="avatar" />
+          <ScalarProperty Name="experience" ColumnName="experience" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="rating2vs2" ColumnName="rating2vs2" />
+          <ScalarProperty Name="NumberOfAnswers" ColumnName="NumberOfAnswers" />
+          <ScalarProperty Name="NumberOfCorrectAnswers" ColumnName="NumberOfCorrectAnswers" />
+          <ScalarProperty Name="NumberOfGames" ColumnName="NumberOfGames" />
+          <ScalarProperty Name="NumberOfGamesWon" ColumnName="NumberOfGamesWon" />
+          <ScalarProperty Name="BestCategory" ColumnName="BestCategory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
